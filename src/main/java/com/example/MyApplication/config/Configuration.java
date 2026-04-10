@@ -26,13 +26,9 @@ public class Configuration {
         return http
                 .csrf(customiser->customiser.disable())
                 .authorizeHttpRequests(auth->auth
-                        .requestMatchers("/user/**",
-                                "/v3/api-docs/**",
-                                "/swagger-ui/**",
-                                "/swagger-ui.html").permitAll()
-                        .anyRequest().authenticated())
+                        .anyRequest().permitAll())
                // .httpBasic(Customizer.withDefaults())
-                .addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class)
+              //  .addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class)
 
 
                 .sessionManagement(session->session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
