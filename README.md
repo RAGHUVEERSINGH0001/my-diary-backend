@@ -157,7 +157,7 @@ Feel free to fork and contribute.
 ## 👨‍💻 Author
 
 Raghuveer Singh
-GitHub: https://github.com/RAGHUVEEERSINGH0001
+GitHub: https://github.com/RAGHUVEERSINGH0001
 
 ---
 
