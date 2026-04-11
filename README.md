@@ -43,9 +43,13 @@ This project demonstrates real-world backend development skills:
 ## 📂 Project Architecture
 
 Controller → Handles HTTP Requests
+
 Service → Business Logic
+
 Repository → Database Operations
+
 Model → Data Representation
+
 Security → Authentication & Authorization
 
 ---
