@@ -6,7 +6,7 @@ A production-ready backend project built using Spring Boot that allows users to 
 
 ## 🌟 Why this project?
 
-This project demonstrates real-world backend development skills required for internships and entry-level roles:
+This project demonstrates real-world backend development skills:
 
 * Secure authentication using JWT
 * Clean REST API design
@@ -63,21 +63,10 @@ Security → Authentication & Authorization
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/notesphere.git
+git clone https://github.com/RAGHUVEERSINGH0001/notesphere.git
 cd notesphere
 ```
 
----
-
-### ⚙️ Configuration
-
-Update `application.properties`:
-
-```properties
-spring.data.mongodb.uri=your_mongodb_uri
-spring.data.mongodb.database=notes_db
-jwt.secret=your_secret_key
-```
 
 ---
 
@@ -138,21 +127,20 @@ Access Swagger UI:
 
 ---
 
-## 🌍 Deployment
 
-Deployed on: Render (or add your link here)
-
----
 
 ## 🧪 Testing
 
-Use Swagger or Postman to test all endpoints.
+Used Swagger  to test all endpoints.
 
----
+---<img width="1080" height="675" alt="Screenshot 2026-04-11 at 1 38 29 PM" src="https://github.com/user-attachments/assets/36acee19-6f9f-4648-936b-c38ad3c2427a" />
+
 
 ## 📸 Screenshots
 
-(Add Swagger UI / API testing screenshots here)
+Used Postman to test all the endpoints
+<img width="1192" height="725" alt="Screenshot 2026-04-11 at 1 39 40 PM" src="https://github.com/user-attachments/assets/037dd5af-2e64-4e7b-bd5e-b47fc9197e74" />
+
 
 ---
 
@@ -165,7 +153,7 @@ Feel free to fork and contribute.
 ## 👨‍💻 Author
 
 Raghuveer Singh
-GitHub: https://github.com/your-username
+GitHub: https://github.com/RAGHUVEEERSINGH0001
 
 ---
 
